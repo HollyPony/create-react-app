@@ -1,5 +1,5 @@
 {
-  "name": "cra-docs",
+  "name": "@hollypony/cra-docs",
   "private": true,
   "scripts": {
     "start": "docusaurus start",

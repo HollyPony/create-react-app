@@ -1,5 +1,5 @@
 {
-  "name": "react-app-polyfill",
+  "name": "@hollypony/react-app-polyfill",
   "version": "3.0.0",
   "description": "Polyfills for various browsers including commonly used language features",
   "repository": {
